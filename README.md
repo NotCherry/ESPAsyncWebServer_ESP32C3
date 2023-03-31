@@ -13,7 +13,7 @@ return IPAddress(0U);
 to:
 
 ```cpp
-return IPAddress((uint32_t) 0u)`;
+return IPAddress((uint32_t) 0u);
 ```
 
 Fixing compile error.
